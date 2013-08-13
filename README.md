@@ -1,4 +1,6 @@
 <h1>magnaCarta</h1>
+http://grapefruitgames.com/2013/05/05/unitygitpt3/<br>
+
 ###switch branch <br>
 git checkout branchname <br>
 
