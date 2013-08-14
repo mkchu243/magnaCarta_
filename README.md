@@ -1,6 +1,13 @@
 <h1>magnaCarta</h1>
 http://grapefruitgames.com/2013/05/05/unitygitpt3/<br>
 
+##useful commands<br>
+cd path [change directory]<br>
+ls [list contents of current directory] <br>
+git status [show your status] <br>
+git diff [show the differences (arrow keys or jk to move, q to quit)] <br>
+git mergetool [merge using the mergetool]<br>
+
 ###switch branch <br>
 git checkout branchname <br>
 
