@@ -16,7 +16,7 @@ public struct ElementAttributes{
 }
 
 static class Reference {
-  ////////////////TODO put your comment here/////////////////
+  ////////////////causing conflicts/////////////////
   public static HashSet<Element> WeaknessWater = new HashSet<Element> { Element.earth, Element.holy };
   public static HashSet<Element> WeaknessFire  = new HashSet<Element> { Element.water, Element.holy };
   //public static HashSet<Element> WeaknessWood  = new HashSet<Element> { Element.metal, Element.holy };
