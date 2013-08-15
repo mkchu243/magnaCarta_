@@ -17,11 +17,10 @@ public struct ElementAttributes{
 
 static class Reference {
   ////////////////TODO put your comment here/////////////////
-	// mwoo_dev
   public static HashSet<Element> WeaknessWater = new HashSet<Element> { Element.earth, Element.holy };
   public static HashSet<Element> WeaknessFire  = new HashSet<Element> { Element.water, Element.holy };
   public static HashSet<Element> WeaknessWood  = new HashSet<Element> { Element.metal, Element.holy };
-  //public static HashSet<Element> WeaknessEarth = new HashSet<Element> { Element.wood,  Element.holy };
+  public static HashSet<Element> WeaknessEarth = new HashSet<Element> { Element.wood,  Element.holy };
   //public static HashSet<Element> WeaknessMetal = new HashSet<Element> { Element.fire,  Element.holy };
   public static HashSet<Element> WeaknessHoly  = new HashSet<Element> {};
 
